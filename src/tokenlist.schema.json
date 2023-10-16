@@ -255,7 +255,7 @@
               "const": ""
             },
             {
-              "pattern": "^\\S+$"
+              "pattern": "^[a-zA-Z0-9+.]+$"
             }
           ],
           "examples": [
